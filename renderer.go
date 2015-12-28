@@ -1,4 +1,4 @@
-package templiceEchoRenderer
+package templiceEchoRenderer //import "go.iondynamics.net/templiceEchoRenderer"
 
 import (
 	"io"
